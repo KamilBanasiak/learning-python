@@ -1,6 +1,27 @@
-# learning-python
+\# Learning Python
 
-My Python learning journey.
+This repository contains my solutions and notes from the \*\*Python Certification\*\* course on freeCodeCamp.
 
-This repository is used to learn GitHub and Git.
+\## Purpose
+
+The goal of this repository is to improve my Python programming skills by completing exercises from the course.
+
+\## Course
+
+* Python Certification
+* Platform: freeCodeCamp
+
+\## Technologies:
+
+* Python
+* Git
+* GitHub
+
+\## Status
+
+In progress
+
+\## Author
+
+Kamil Banasiak
 
