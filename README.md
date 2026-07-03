@@ -1,27 +1,27 @@
-\# Learning Python
+# Learning Python
 
-This repository contains my solutions and notes from the \*\*Python Certification\*\* course on freeCodeCamp.
+This repository contains my solutions and notes from the **Python Certification** course on freeCodeCamp.
 
-\## Purpose
+## Purpose
 
 The goal of this repository is to improve my Python programming skills by completing exercises from the course.
 
-\## Course
+## Course
 
 * Python Certification
 * Platform: freeCodeCamp
 
-\## Technologies:
+## Technologies
 
 * Python
 * Git
 * GitHub
 
-\## Status
+## Status
 
 In progress
 
-\## Author
+## Author
 
 Kamil Banasiak
 
